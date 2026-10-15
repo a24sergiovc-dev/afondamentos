@@ -53,6 +53,17 @@ sudo apt install bind9
 | Configuracion de red | /etc/network/interfaces | nano
 
 
+## Comandos útiles
+Para consultar la configuración de red:
+```bash
+ip addr
+```
+Para comprobar la conectividad:
+```bash
+ping 8.8.8.8
+```
+
+
 ## 4. Conceptos de bind9
 
 * **Resolución directa:** Transforma un dominio en una dirección IP.
@@ -66,14 +77,3 @@ sudo apt install bind9
 >  🌐 [Servidor DNS bind ](https://manuais.iessanclemente.net/index.php/Servidor_DNS_bind)
 
 ![Representacion del BIND9](https://cibersafety.com/wp-content/uploads/2025/09/Todo-sobre-BIND-768x512.png)
-
-
-## Comandos útiles
-Para consultar la configuración de red:
-```bash
-ip addr
-```
-Para comprobar la conectividad:
-```bash
-ping 8.8.8.8
-```
