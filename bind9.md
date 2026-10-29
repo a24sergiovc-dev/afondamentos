@@ -77,3 +77,5 @@ ping 8.8.8.8
 >  🌐 [Servidor DNS bind ](https://manuais.iessanclemente.net/index.php/Servidor_DNS_bind)
 
 ![Representacion del BIND9](https://cibersafety.com/wp-content/uploads/2025/09/Todo-sobre-BIND-768x512.png)
+
+Añadir cambios a github
